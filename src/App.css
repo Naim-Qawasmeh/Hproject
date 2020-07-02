@@ -40,3 +40,12 @@
 		transform: rotate(360deg);
 	}
 }
+.p{
+	display: inline-block;
+    vertical-align: top;
+}
+.Hello{
+	align-items: center;
+	
+	
+}
